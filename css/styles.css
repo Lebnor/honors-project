@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.row-content {
+    padding: 50px 0px 50px 0px;
+    margin: auto;
+    min-height: 100;
+    border-bottom: 1px ridge;
+}
+
+.footer {
+    background-color: khaki;
+}
+
+.content-block {
+    min-height: 350px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px lawngreen ridge;
+}

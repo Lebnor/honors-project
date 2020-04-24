@@ -20,5 +20,11 @@
   "homepage": "https://github.com/Lebnor/bootstrap-honors-project#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.0"
   }
 }
